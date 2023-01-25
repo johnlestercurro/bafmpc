@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Agency - Start Bootstrap Theme</title>
+        <title>BAFMPC</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -28,9 +28,9 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#processing">Processing</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#team">Contact Persons</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#team">Our Team</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdownLogin" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Account</a>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownLogin">
@@ -47,7 +47,7 @@
             <div class="container">
                 <div class="masthead-heading text-uppercase">Butuan Agusan Farmers Multi-purpose Cooperative
                 </div>
-                <div class="masthead-subheading">It is a cooperative with members living in harmony with human beings and advocating to uphold the dignity of God’s creation.</div>
+                <div class="masthead-subheading">Formerly, LADAMA Multi Purpose Cooperative.</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>
@@ -56,7 +56,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Services</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Butuan Agusan Farmers Multi-purpose Cooperative.</h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
@@ -65,7 +65,7 @@
                             <i class="fas fa fa-truck fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Rice Milling</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">Milling is a crucial step in post-production of rice. The basic objective of a rice milling system is to remove the husk and the bran layers, and produce an edible, white rice kernel that is sufficiently milled and free of impurities.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
@@ -73,7 +73,7 @@
                             <i class="fas fa-balance-scale fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Rice Trading</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">Procurement, transportation, storage, milling and distribution. The major problem in palay procurement was poor grain quality brought about by mixed varieties, discolored, and spotted palay and high impurities. It is for Wholesale and Retail!.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
@@ -81,106 +81,108 @@
                             <i class="fas fa-handshake fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Micro Finance</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">The financial services provided to low-income individuals or groups who are typically excluded from traditional banking. Most microfinance institutions focus on offering credit in the form of small working capital loans, sometimes called microloans or microcredit.</p>
+                        <p class="text-muted">Investing - putting money to work for a period of time in some sort of project or undertaking in order to generate positive return.</p>
+                        <p class="text-muted">Deposits - You can invest products that can only be taken after a certain period of time, and savings that can be withdrawn whenever needed.</p>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Portfolio Grid-->
-        <section class="page-section bg-light" id="portfolio">
+        <!-- Processing Grid-->
+        <section class="page-section bg-light" id="processing">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Processing</h2>
+                    <h3 class="section-subheading text-muted">To show how its done and the quality of our products and services.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 1-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- processing item 1-->
+                        <div class="processing-item">
+                            <a class="processing-link" data-bs-toggle="modal" href="#processingModal1">
+                                <div class="processing-hover">
+                                    <div class="processing-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/processing/1.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                            <div class="processing-caption">
+                                <div class="processing-caption-heading">Harvesting</div>
+                                <div class="processing-caption-subheading text-muted">Harvesting of crops from their cooperative members</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 2-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- processing item 2-->
+                        <div class="processing-item">
+                            <a class="processing-link" data-bs-toggle="modal" href="#processingModal2">
+                                <div class="processing-hover">
+                                    <div class="processing-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/processing/2.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                            <div class="processing-caption">
+                                <div class="processing-caption-heading">Drying</div>
+                                <div class="processing-caption-subheading text-muted">Drying of grains.</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 3-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- processing item 3-->
+                        <div class="processing-item">
+                            <a class="processing-link" data-bs-toggle="modal" href="#processingModal3">
+                                <div class="processing-hover">
+                                    <div class="processing-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/processing/3.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                            <div class="processing-caption">
+                                <div class="processing-caption-heading">Storage</div>
+                                <div class="processing-caption-subheading text-muted">Storing of the Dried Grains</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-                        <!-- Portfolio item 4-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- processing item 4-->
+                        <div class="processing-item">
+                            <a class="processing-link" data-bs-toggle="modal" href="#processingModal4">
+                                <div class="processing-hover">
+                                    <div class="processing-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/processing/4.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                            <div class="processing-caption">
+                                <div class="processing-caption-heading">Milling</div>
+                                <div class="processing-caption-subheading text-muted">to remove the husk and the bran layers, and produce an edible, white rice kernel that is sufficiently milled and free of impurities.</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-                        <!-- Portfolio item 5-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- processing item 5-->
+                        <div class="processing-item">
+                            <a class="processing-link" data-bs-toggle="modal" href="#processingModal5">
+                                <div class="processing-hover">
+                                    <div class="processing-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/processing/5.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                            <div class="processing-caption">
+                                <div class="processing-caption-heading">Weighing and Bagging</div>
+                                <div class="processing-caption-subheading text-muted">Preparing the milled rice for transport to the customers.</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <!-- Portfolio item 6-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- processing item 6-->
+                        <div class="processing-item">
+                            <a class="processing-link" data-bs-toggle="modal" href="#processingModal6">
+                                <div class="processing-hover">
+                                    <div class="processing-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/processing/6.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                            <div class="processing-caption">
+                                <div class="processing-caption-heading">Distribution</div>
+                                <div class="processing-caption-subheading text-muted">Insuring a high quality of Rice for Wholesale and Retail!</div>
                             </div>
                         </div>
                     </div>
@@ -192,47 +194,37 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">A history in the making.</h3>
                 </div>
                 <ul class="timeline">
                     <li>
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2009-2011</h4>
+                                <h4>1988-Present</h4>
                                 <h4 class="subheading">Our Humble Beginnings</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">BAFMPC, formerly known as Los Angeles, Damoog, Mangabao (LADAMA) Multi-Purpose Cooperative, started its operation in 1988 as an irrigator’s organization offering rice production services, lending, and palay trading to its members. After 20 years in rice farming and milling, BAFMPC acquired a state-of-the-art Multi-pass Milling Facility with complete accessories for rice polishing and whitening through the Small Enterprise Technology Upgrading Program (SETUP). The project costs Php 2,971,000.00 and since then has greatly impacted the operations of the firm.
+
+                                From 20 bags of grains per hour and only up to 60% recovery rate, the cooperative now mills 40-60 bags of grains per hour or approximately 400 bags per day, with 67% recovery rate of rice after milling. The increase in the production volume helped increase the income of the coop and the farmers. Through the program, the cooperative also availed of the Manufacturing Productivity Extension (MPEX) consultancy program and technology training which helped them improve their product, plant layout, business operations and marketing strategies.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
+                                <h4>Mission</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">To be a cooperative with members living in harmony with human beings and advocating to uphold the dignity of God’s creation.</p></div>
                         </div>
                     </li>
                     <li>
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>December 2015</h4>
-                                <h4 class="subheading">Transition to Full Service</h4>
+                                <h4>Vision</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>July 2020</h4>
-                                <h4 class="subheading">Phase Two Expansion</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">To seek, to live and grow with people; listens and hears the joy, tears, laments and agonies and work and create together with them an efficient and effective economic enterprises through household initiatives in Agro-Industrial development in order to improve the quality of life.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -253,65 +245,82 @@
         <section class="page-section bg-light" id="team">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">FARMCOOP BOARD OF TRUSTEES & OFFICERS</h2>
+                    <h3 class="section-subheading text-muted">2022-2025.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
-                            <h4>Parveen Anand</h4>
-                            <p class="text-muted">Lead Designer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                            <h4>Sara Duterte</h4>
+                            <p class="text-muted">Chairperson</p>
+                            <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/indaysara" aria-label="Sara Duterte Twitter Profile"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/MayorIndaySaraDuterteOfficial/" aria-label="Sara Duterte Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.tiktok.com/@love_inday_sara" aria-label="Sara Duterte Tiktok Profile"><i class="fab fa-tiktok"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
-                            <h4>Diana Petersen</h4>
-                            <p class="text-muted">Lead Marketer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                            <h4>Frankirico Restor</h4>
+                            <p class="text-muted">Vice Chairperson</p>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/Frankirico.ph" aria-label="Frankirico Restor Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.youtube.com/@baphometfrombxu9549" aria-label="Frankirico Restor Youtube Profile"><i class="fab fa-youtube"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://github.com/BAPHOMETfromBXU/" aria-label="Frankirico Restor Github Profile"><i class="fab fa-github"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h4>Larry Parker</h4>
-                            <p class="text-muted">Lead Developer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                            <h4>John Lester Curro</h4>
+                            <p class="text-muted">Secretary</p>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/johnlester.curro" aria-label="John Lester Curro Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/johnlestercurro20/" aria-label="John Lester Curro Instagram Profile"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://github.com/johnlestercurro/" aria-label="John Lester Curro Github Profile"><i class="fab fa-github"></i></a>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
-                </div>
-            </div>
         </section>
-        <!-- Clients-->
-        <div class="py-5">
+        <!-- Team2-->
+        <section class="page-section bg-light" id="team">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/microsoft.svg" alt="..." aria-label="Microsoft Logo" /></a>
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">FARMCOOP TEAM AND TEAM CONTRIBUTIONS</h2>
+                    <h3 class="section-subheading text-muted">2022-2025.</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/4.jpg" alt="..." />
+                            <h4>Jabez Ian Chris Penalver</h4>
+                             <p class="text-muted">Executive Director</p>
+                             <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/jic.d.penalver" aria-label="Jabez Ian Chris Penalver Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                             <a class="btn btn-dark btn-social mx-2" href="https://ph.linkedin.com/in/jabez-ian-chris-penalver-462478134" aria-label="Jabez Ian Chris Penalver Linkedin Profile"><i class="fab fa-linkedin-in"></i></a>
+                             <a class="btn btn-dark btn-social mx-2" href="https://github.com/jianchris2k14/" aria-label="Jabez Ian Chris Penalver Github Profile"><i class="fab fa-github"></i></a>
+                        </div>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/google.svg" alt="..." aria-label="Google Logo" /></a>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/5.jpg" alt="..." />
+                            <h4>Alfonso Noynay</h4>
+                            <p class="text-muted">President</p>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/Frankirico.ph" aria-label="Frankirico Restor Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.youtube.com/@baphometfrombxu9549" aria-label="Frankirico Restor Youtube Profile"><i class="fab fa-youtube"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://github.com/BAPHOMETfromBXU/" aria-label="Frankirico Restor Github Profile"><i class="fab fa-github"></i></a>
+                        </div>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.svg" alt="..." aria-label="Facebook Logo" /></a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/ibm.svg" alt="..." aria-label="IBM Logo" /></a>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/6.jpg" alt="..." />
+                            <h4>Manuelito Suan</h4>
+                            <p class="text-muted">Manager</p>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/johnlester.curro" aria-label="John Lester Curro Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/johnlestercurro20/" aria-label="John Lester Curro Instagram Profile"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://github.com/johnlestercurro/" aria-label="John Lester Curro Github Profile"><i class="fab fa-github"></i></a>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
+        </section>
         <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
@@ -393,9 +402,9 @@
                 </div>
             </div>
         </footer>
-        <!-- Portfolio Modals-->
-        <!-- Portfolio item 1 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- processing Modals-->
+        <!-- processing item 1 modal popup-->
+        <div class="processing-modal modal fade" id="processingModal1" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -404,23 +413,25 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Harvesting</h2>
+                                    <p class="item-intro text-muted">Harvesting of crops from their cooperative members.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/processing/1.jpg" alt="..." />
+                                    <p>Harvesting is the process of collecting the mature rice crop from the field. Paddy harvesting activities include reaping, stacking, handling, threshing, cleaning, and hauling. These can be done individually or a combine harvester can be used to perform the operations simultaneously.
+
+                                        It is important to apply good harvesting methods to be able to maximize grain yield, and minimize grain damage and quality deterioration.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Threads
+                                            <strong>Process:</strong>
+                                            Harvesting
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Illustration
+                                            <strong>Schedule of Harvesting:</strong>
+                                            Quarterly
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Harvesting
                                     </button>
                                 </div>
                             </div>
@@ -429,8 +440,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 2 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- processing item 2 modal popup-->
+        <div class="processing-modal modal fade" id="processingModal2" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -439,23 +450,27 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Drying</h2>
+                                    <p class="item-intro text-muted">Drying of grains.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/processing/2.jpg" alt="..." />
+                                    <p>Drying reduces grain moisture content to a safe level for storage. It is the most critical operation after harvesting a rice crop. When rice is harvested, it will contain up to 25% moisture. High moisture level during storage can lead to grain discoloration, encourage development of molds, and increase the likelihood of attack from pests. It can also decrease the germination rate of the rice seed.
+                                        
+                                        It is important to dry rice grain as soon as possible after harvesting— ideally within 24 hours. Delays in drying, incomplete drying or ineffective drying will reduce grain quality and result in losses.
+                                        
+                                        Paddy drying methods include traditional and mechanical systems with varying technological complexity and capacities for either farm or commercial level.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Explore
+                                            <strong>Process:</strong>
+                                            Drying
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Graphic Design
+                                            <strong>Schedule of Drying:</strong>
+                                            Within 24 hours after the harvest.
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Drying
                                     </button>
                                 </div>
                             </div>
@@ -464,8 +479,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 3 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- processing item 3 modal popup-->
+        <div class="processing-modal modal fade" id="processingModal3" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -474,23 +489,23 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Storage</h2>
+                                    <p class="item-intro text-muted">Storing of the Dried Grains.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/processing/3.jpg" alt="..." />
+                                    <p>The purpose of any grain storage facility is to provide safe storage conditions for the grain in order to prevent grain loss caused by adverse weather, moisture, rodents, birds, insects and micro-organisms like fungi.
+
+                                        In general, it is recommended that rice for food purposes be stored in paddy form rather than milled rice as the husk provides some protection against insects and helps prevent quality deterioration.
+                                        
+                                        However, when rice can be stored as brown rice, 20% less storage capacity will be needed. Brown rice is rice grain with its hulls removed but not polished. Under tropical conditions brown rice has a very short shelf life, approximately two weeks.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Finish
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Identity
+                                            <strong>Process:</strong>
+                                            Storage
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Storage
                                     </button>
                                 </div>
                             </div>
@@ -499,8 +514,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 4 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- processing item 4 modal popup-->
+        <div class="processing-modal modal fade" id="processingModal4" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -508,24 +523,22 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
-                                    <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- Process details-->
+                                    <h2 class="text-uppercase">Milling</h2>
+                                    <p class="item-intro text-muted">To remove the husk and the bran layers, and produce an edible, white rice kernel that is sufficiently milled and free of impurities.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/processing/4.jpg" alt="..." />
+                                    <p>Most rice varieties are composed of roughly 20% rice hull or husk, 11% bran layers, and 69% starchy endosperm, also referred to as the total milled rice.
+
+                                        In an ideal milling process this will result in the following fractions: 20% husk, 8−12% bran depending on the milling degree and 68−72% milled rice or white rice depending on the variety. Total milled rice contains whole grains or head rice, and brokens. The by-products in rice milling are rice hull, rice germ and bran layers, and fine brokens.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Lines
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Branding
+                                            <strong>Process:</strong>
+                                            Milling
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Milling
                                     </button>
                                 </div>
                             </div>
@@ -534,8 +547,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 5 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- processing item 5 modal popup-->
+        <div class="processing-modal modal fade" id="processingModal5" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -544,23 +557,19 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Weighing and Bagging</h2>
+                                    <p class="item-intro text-muted">Preparing the milled rice for transport to the costumers.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/processing/5.jpg" alt="..." />
+                                    <p>The sacks used to pack rice are available in different weight sizes, such as 5kg, 10kg, 25kg and 50kg. The weight of each sacks are precise and accurate for trusted and quality that customers wants.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Southwest
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Website Design
+                                            <strong>Prcoess:</strong>
+                                            Weighing and Bagging
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Weighing and Bagging
                                     </button>
                                 </div>
                             </div>
@@ -569,8 +578,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 6 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- processing item 6 modal popup-->
+        <div class="processing-modal modal fade" id="processingModal6" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -579,23 +588,19 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Distribution</h2>
+                                    <p class="item-intro text-muted">Quality is secured for Wholesale and retail.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/processing/6.jpg" alt="..." />
+                                    <p>Insuring a high quality of Rice! Retailers typically sell a product for a higher price than what they purchased it for from the wholesaler. Wholesalers typically offer their goods at a lower price when bought in bulk, allowing retailers to make a profit when selling these goods in their retail store.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Window
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Photography
+                                            <strong>Process:</strong>
+                                            Distrubution
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Process
                                     </button>
                                 </div>
                             </div>
