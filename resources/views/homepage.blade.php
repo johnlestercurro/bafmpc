@@ -250,17 +250,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/4.jpg" alt="..." />
-                            <h4>Jabez Ian Chris Penalver</h4>
-                             <p class="text-muted">Executive Director</p>
-                             <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/jic.d.penalver" aria-label="Jabez Ian Chris Penalver Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                             <a class="btn btn-dark btn-social mx-2" href="https://ph.linkedin.com/in/jabez-ian-chris-penalver-462478134" aria-label="Jabez Ian Chris Penalver Linkedin Profile"><i class="fab fa-linkedin-in"></i></a>
-                             <a class="btn btn-dark btn-social mx-2" href="https://github.com/jianchris2k14/" aria-label="Jabez Ian Chris Penalver Github Profile"><i class="fab fa-github"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
+                    <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/5.jpg" alt="..." />
                             <h4>Alfonso Noynay</h4>
                             <p class="text-muted">President</p>
@@ -281,47 +271,7 @@
                     </div>
                 </div>
         </section>
-        <!-- Team2-->
-        <section class="page-section bg-light" id="team">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">SOCIAL MEDIA TEAM</h2>
-                    <h3 class="section-subheading text-muted">2022-2025.</h3>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
-                            <h4>Frankirico Restor</h4>
-                            <p class="text-muted">Lead Designer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/Frankirico.ph" aria-label="Frankirico Restor Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="https://www.youtube.com/@baphometfrombxu9549" aria-label="Frankirico Restor Youtube Profile"><i class="fab fa-youtube"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="https://github.com/BAPHOMETfromBXU/" aria-label="Frankirico Restor Github Profile"><i class="fab fa-github"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h4>John Lester Curro</h4>
-                            <p class="text-muted">Lead Marketer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/johnlester.curro" aria-label="John Lester Curro Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/johnlestercurro20/" aria-label="John Lester Curro Instagram Profile"><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="https://github.com/johnlestercurro/" aria-label="John Lester Curro Github Profile"><i class="fab fa-github"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
-                            <h4>Sara Duterte</h4>
-                            <p class="text-muted">Lead Developer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/indaysara" aria-label="Sara Duterte Twitter Profile"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/MayorIndaySaraDuterteOfficial/" aria-label="Sara Duterte Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="https://www.tiktok.com/@love_inday_sara" aria-label="Sara Duterte Tiktok Profile"><i class="fab fa-tiktok"></i></a>
-                        </div>
-                    </div>
-                </div>
-        </section>
-        <!-- Contact-->
+              <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
@@ -332,8 +282,8 @@
             <center>
                     <!-- Google Map Copied Code -->
                     <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d985.1492171767253!2d125.60627247688376!3d9.009190593600472!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sph!4v1674635946994!5m2!1sen!2sph"
-                            width="400"
-                            height="300"
+                            width="800"
+                            height="400"
                             frameborder="0"
                             style="border:0;"
                             allowfullscreen=""
