@@ -11,11 +11,11 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
 
                   <h2 class="float-right">
-                  {{$header}}
+                        {{ $header }}                                                                                                                                                                                                                                                                                  
                   </h2>
 
                 <button data-modal-target="popup-modal" data-modal-toggle="popup-modal"  type="button">
-                  Add Users
+                    <a class="dropdown-item" href="/users/add">Add Users</a>
                 </button>
                   
                 <table class="table-auto w-full">
@@ -28,16 +28,23 @@
                         </thead>
                         <tbody>
 
-                          @foreach ($users as $user)
-                          <tr>
-                            <td> {{$user->name}} </td>
-                            <td class ="text-center"> {{$user->email}} </td>
-                            <td class ="text-center">
-                                <button class="rounded-full bg-sky-500 p-1 hover:bg-sky-700">Update</button>
-                                <button class="rounded-full bg-sky-500 p-1 hover:bg-sky-700">Delete </button>
-                            </td>
-                          </tr>
-                          @endforeach
+                            @foreach($users as $user)
+                            <tr>
+                               <td>{{$user->name}}</td>
+                               <td class="text-center">{{$user->email}} </td>
+                               <td class="text-center">
+                                <a href="{{ url('/users/update/' .$user->id) }}">
+                                    <button class="rounded-full bg-orange-400 p-1 hover:bg-orange-500">Update</button>
+                               </a>
+                               </a>
+                                <a href="{{ url('/users/delete/' .$user->id) }}">    
+                                    <button class="rounded-full bg-orange-700 p-1 hover:bg-orange-500">Delete</button>
+
+
+                                
+                               </td>
+                            </tr>
+                        @endforeach
                           
                          
                         </tbody>

@@ -31,13 +31,6 @@
                         <li class="nav-item"><a class="nav-link" href="#processing">Processing</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">Our Team</a></li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" id="navbarDropdownLogin" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Account</a>
-                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownLogin">
-                                <li><a class="dropdown-item" href="/login">Login</a></li>
-                                <li><a class="dropdown-item" href="/register">Register</a></li>
-                            </ul>
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -305,8 +298,8 @@
                         <a class="btn btn-dark btn-social mx-2" href="https://github.com/johnlestercurro/" aria-label="John Lester Curro Github Profile"><i class="fab fa-github"></i></a>
                     </div>
                     <div class="col-lg-4 text-lg-end">
-                        <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
-                        <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
+                        <a class="link-dark text-decoration-none me-3" href="/login">Login</a>
+                        <a class="link-dark text-decoration-none" href="/register">Register</a>
                     </div>
                 </div>
             </div>
